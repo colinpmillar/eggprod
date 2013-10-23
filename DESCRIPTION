@@ -1,0 +1,10 @@
+Package: eggprod
+Type: Package
+Title: Traditional egg production estimation
+Version: 1.0
+Date: 2010-01-20
+Author: Colin Millar
+Maintainer: Colin Millar <millarc@marlab.ac.uk>
+Description: More about what it does (maybe more than one line)
+License: GPL ( >= 2 )
+LazyLoad: yes
